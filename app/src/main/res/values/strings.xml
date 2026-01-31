@@ -1,3 +1,22 @@
 <resources>
     <string name="app_name">RemedialUCP2</string>
+    <string name="entry_siswa">Registrasi Buku Baru</string>
+    <string name="deskripsi_no_item">Daftar Buku Kosong</string>
+    <string name="nama">Judul Buku*</string>
+    <string name="alamat">Kategori*</string>
+    <string name="telpon">Status Pinjam*</string>
+    <string name="nama1">Judul Buku:</string>
+    <string name="alamat1">Kategori:</string>
+    <string name="telpon1">Status:</string>
+    <string name="required_field">* wajib diisi</string>
+    <string name="btn_submit">Simpan Data</string>
+    <string name="detail_siswa">Rincian Buku</string>
+    <string name="edit_siswa">Perbarui Info Buku</string>
+    <string name="back">Back</string>
+    <string name="yes">Ya</string>
+    <string name="no">Tidak</string>
+    <string name="delete">Hapus</string>
+    <string name="update">Perbarui</string>
+    <string name="attention">Notifikasi</string>
+    <string name="tanya">Apakah Anda yakin ingin menghapus data buku ini secara permanen?</string>
 </resources>
